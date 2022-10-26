@@ -18,7 +18,7 @@ public class ValidacaoParenteses {
 
         boolean caracter = ehValido(scanner.nextLine());
 
-        System.out.println(caracter);
+    System.out.println(caracter);
     }
 
     public static boolean ehValido(String s) {
