@@ -1,14 +1,14 @@
 package out.production.br.com.dio.challenges;
 
 /*
-* Neste desafio, receba um número inteiro N, calcule e imprima o somatório de todos os números de N até 0
-*
-* A Entrada será composta por um número inteiro, N.
-*
-* Será  impresso o somatório de N até 0.
-* */
+ * Neste desafio, receba um número inteiro N, calcule e imprima o somatório de todos os números de N até 0
+ *
+ * A Entrada será composta por um número inteiro, N.
+ *
+ * Será  impresso o somatório de N até 0.
+ * */
 
-import java.util.*;
+import java.util.Scanner;
 
 public class ChamadaRecursiva {
 
